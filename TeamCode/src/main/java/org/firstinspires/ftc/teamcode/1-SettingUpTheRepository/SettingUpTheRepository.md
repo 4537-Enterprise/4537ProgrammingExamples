@@ -25,10 +25,10 @@ Congratulations! You have forked the repository, and are ready to start coding.
 
 1) Open Windows Terminal/Command Prompt
 2) Enter the following commands:
-'''
+```
 git config user.name "Your Github Username"
 git config user.email "The Email Address You Used to Create Your Github Account"
-'''
+```
 3) Close the Windows Terminal/Command Prompt
 
 ### Now it is time to get our repository into Android Studio
