@@ -1,9 +1,10 @@
 package org.firstinspires.ftc.teamcode.B_Opmodes;
 
+import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
-@com.qualcomm.robotcore.eventloop.opmode.Autonomous(name = "", group = "")
-public class Autonomous extends LinearOpMode{
+@Autonomous(name = "", group = "")
+public class AutonomousExample extends LinearOpMode{
 
 	/*
 	* All of this code here gets run when the Robot Controller app is launched
