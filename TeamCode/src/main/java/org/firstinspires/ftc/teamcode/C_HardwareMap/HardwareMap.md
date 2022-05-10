@@ -5,7 +5,7 @@
 
 ## What is the HardwareMap?
 
-![Hardware Map] (hardwaremap.svg)
+![Hardware Map](hardwaremap.svg)
 
 <p>The har</p>
 
