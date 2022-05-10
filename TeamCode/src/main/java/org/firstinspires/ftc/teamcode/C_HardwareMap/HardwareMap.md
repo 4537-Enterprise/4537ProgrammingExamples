@@ -7,7 +7,8 @@
 
 ![Hardware Map](hardwaremap.svg)
 
-<p>The har</p>
+<p>The hardware map is the place on the Robot Controller where all the Hardware is defined for the Control/Expansion Hub. Inside of the hardware map, you define what hardware is connected to each port on the hub, along with a name for the program to be able to access.</p>
+<p>You can edit the hardware map by going to your Driver Controller, pressing the three dots in the top right corner, and selecting configure.</p>
 
 ## Getting access to Hardware
 
