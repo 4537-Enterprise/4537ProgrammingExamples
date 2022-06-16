@@ -28,3 +28,8 @@ public void runOpMode() throws InterruptedException{
     waitForStart();
 }
 ```
+
+<p>What we see here is a basic use of the hardware map. We have our motor object, and we need to set it equal to the actual motor defined in the hardware map itself.</p>
+<p>To use the hardware map, we have to use the hardwareMap object. The hardwareMap object has a method called "get" which asks for what object class we're looking for along with the name of the motor we defined in the Hardware Map.</p>
+<p>This hardwareMap.get() method will return DcMotor object that will allow us to control the physical motor through the "testMotor" object.</p>
+<p>This process works for all objects in the hardwareMap.</p>
